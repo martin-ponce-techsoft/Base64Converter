@@ -1,0 +1,6 @@
+@Base64ConverterApi_HostAddress = http://localhost:5105
+
+GET {{Base64ConverterApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

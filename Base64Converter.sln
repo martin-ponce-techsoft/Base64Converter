@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64Converter", "Base64Converter\Base64Converter.csproj", "{F890C433-C1DA-49D7-9B5C-A3F6620B9B03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base64ConverterApi", "Base64ConverterApi\Base64ConverterApi.csproj", "{0A97A659-7381-4F27-85E5-5270CDFAB3F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F890C433-C1DA-49D7-9B5C-A3F6620B9B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F890C433-C1DA-49D7-9B5C-A3F6620B9B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F890C433-C1DA-49D7-9B5C-A3F6620B9B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F890C433-C1DA-49D7-9B5C-A3F6620B9B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A97A659-7381-4F27-85E5-5270CDFAB3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A97A659-7381-4F27-85E5-5270CDFAB3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A97A659-7381-4F27-85E5-5270CDFAB3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A97A659-7381-4F27-85E5-5270CDFAB3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5DD1809-C102-4A42-A0B8-CE2F58D521A9}
+	EndGlobalSection
+EndGlobal
